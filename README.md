@@ -1,2 +1,4 @@
 # super-duper-tribble
-Kun et repo for å lære
+Kun et repo for å lære meg Git
+  😊
+  
